@@ -1,6 +1,3 @@
-/* Print monthly expenditure
-Practical 2, Part 2 (a)
-anushka  maharjan */
 #include <stdio.h>
 
 int main(void) {

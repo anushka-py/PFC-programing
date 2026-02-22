@@ -1,8 +1,3 @@
-/* Secure monthly expenditure calculator
-Practical 2, Part 3
-anushka  maharjan
-
-Secure improvement: Replaced unsafe scanf() with fgets() and strtof() for input parsing and validation. Added input checks and used named constant for accommodation. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
